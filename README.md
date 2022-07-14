@@ -18,8 +18,11 @@ grpc test,c++
     使用同步，对于go来说，更方便。
     
 所有的使用方法，可以参考grpc官网：https://github.com/grpc/grpc/tree/master/examples/cpp
+
 其中，回调可以参考：https://github.com/grpc/grpc/tree/master/examples/cpp/route_guide
+
 同步和异步，可以参考：https://github.com/grpc/grpc/tree/master/examples/cpp/helloworld
 
 网上很难找到比较全的grpc的例子，包含同步，异步，回调。就自己尝试着写了一下。
+编译方法，如果有安装cmake的话，直接使用cmake，makefile是因为当时没有装cmake，并且不想有那么多的依赖，就手写了makefile。
 欢迎给出宝贵意见，联系方式 邮箱：zhujy127@163.com 735233657@qq.com
