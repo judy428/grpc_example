@@ -1,5 +1,5 @@
 # grpc_example
-grpc test,c++
+grpc test,c++，excmple，同步，异步，回调
 
 编译：
     1:使用cmake命令
